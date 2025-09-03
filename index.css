@@ -1,0 +1,59 @@
+/*warna aja*/
+.green {
+    background-color: green;
+}
+#bluee {
+    background-color: lightblue;
+}
+
+/*font yh*/
+.fs {
+    font-size: 20px;
+}
+.fw {
+    font-weight:900;
+}
+.fc {
+    color:steelblue;
+}
+.ff {
+    font-family: 'Cambria';
+}
+
+/*box*/
+.box-container {
+    background-color: antiquewhite;
+    padding: 20px;
+}
+.box1 {
+    background-color: rosybrown;
+    padding: 10px;
+    margin: 10px;
+    border: 10px brown;
+}
+.box2 {
+    background-color: violet;
+    padding: 10px;
+    margin: 10px;
+    border: 10px purple;
+}
+.box3 {
+    background-color: paleturquoise;
+    padding: 10px;
+    margin: 10px;
+    border: 10px turquoise;
+}
+
+/*box lagi*/
+.block {
+    display: block;
+    background-color: burlywood;
+}
+.inline {
+    display: inline;
+    background-color: fuchsia;
+}
+.inline-block {
+    display: inline-block;
+    background-color: blanchedalmond;
+}

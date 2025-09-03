@@ -1,0 +1,23 @@
+.position-container {
+    background-color: cadetblue;
+}
+
+.relative {
+    position: relative;
+    background-color: crimson;
+}
+
+.absolute {
+    position: absolute;
+    background-color:darkolivegreen;
+}
+
+.fixed {
+    position: fixed;
+    top: 10;
+    right: 10;
+}
+
+.sticky {
+    position: sticky;
+}
